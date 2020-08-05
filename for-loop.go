@@ -9,7 +9,7 @@ func main() {
 	// This loop starts when i = 0
 	// executes till i<4 condition is true
 	// post statement is i++
-        Var r int = 36
+        
 	var q int = 34
 	for i := 1; i < 4; i++ {
 		fmt.Printf("GeeksforGeeks+%d%d \n", i, q)
