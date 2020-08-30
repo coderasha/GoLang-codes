@@ -1,6 +1,6 @@
 package main
 
-import "fmt"
+
 
 func main() {
 	/* an int array with 5 elements */
